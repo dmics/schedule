@@ -17,7 +17,7 @@
 | 10:30-10:45 | Break | |
 | 10:45-12:00 | [Metadata](https://docs.google.com/presentation/d/1-5jNvhtt_Q-zckzjjIW_Ww7g5juAuRLnR1xG4UghbyQ/edit?usp=sharing) |  |
 | 12:00-1:30 | Lunch|  |
-| 1:30-2:45 | Tidy Data |  |
+| 1:30-2:45 | [Tidy Data](https://docs.google.com/presentation/d/1-5jNvhtt_Q-zckzjjIW_Ww7g5juAuRLnR1xG4UghbyQ/edit?usp=sharing) |  |
 | 2:45-3:00 | Break |  |
 | 3:00-3:30 | Tidy Data Exercises |  |
 | 3:30-5:00 | [Organizing Data](https://github.com/dmics/organizingdata) |  |
@@ -30,7 +30,7 @@
 | 10:45-11:15 | Text Analysis Exploration |  |
 | 11:15-12:00 | Topic Modeling |  |
 | 12:00-1:30 | Lunch |  |
-| 1:30-2:45 | Introduction to Networks |  |
+| 1:30-2:45 | [Introduction to Networks](https://docs.google.com/presentation/d/1MMFJwauPBV9rFmwv_Z-0ViYeo-5kSYQnyoEtTrmM0Jk/edit?usp=sharing) |  |
 | 2:45-3:00 | Break |  |
 | 3:00-5:00 | Network Workshop |  |
 
