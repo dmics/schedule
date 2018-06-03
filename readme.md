@@ -32,7 +32,7 @@
 | 12:00-1:30 | Lunch |  |
 | 1:30-2:45 | Introduction to Networks |  |
 | 2:45-3:00 | Break |  |
-| 3:00-4:30 | Network Workshop |  |
+| 3:00-5:00 | Network Workshop |  |
 
 ## Thursday
 | Time | Topic| Relevant Links |
