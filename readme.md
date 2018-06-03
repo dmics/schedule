@@ -15,7 +15,7 @@
 | ------------- |-------------| -----|
 | 9:00-10:30 | [Adding Structure and Extracting Features](https://github.com/dmics/adding-extracting) |  |
 | 10:30-10:45 | Break | |
-| 10:45-12:00 | Metadata |  |
+| 10:45-12:00 | [Metadata](https://docs.google.com/presentation/d/1-5jNvhtt_Q-zckzjjIW_Ww7g5juAuRLnR1xG4UghbyQ/edit?usp=sharing) |  |
 | 12:00-1:30 | Lunch|  |
 | 1:30-2:45 | Tidy Data |  |
 | 2:45-3:00 | Break |  |
