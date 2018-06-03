@@ -1,7 +1,7 @@
 ## Monday
 | Time | Topic| Relevant Links |
 | ------------- |-------------| -----|
-| 9:30-9:50 | Introductions  |  |
+| 9:30-9:50 | Introductions  | [Workshop Guidelines](https://docs.google.com/document/d/1W9WOWtI6NHIzupKyzJOwa-xUJFrciYDdV4DpBg6jCng/edit) |
 | 9:50-10:45 | Overview of the course/Introduction to DH | |
 | 10:45-11:00 | Break |  |
 | 11:00-12:00 | [Command Line Bootcamp](https://github.com/dmics/commandlinebootcamp) |  |
