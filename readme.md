@@ -27,7 +27,7 @@
 | ------------- |-------------| -----|
 | 9:00-10:30 | [Text Analysis](https://docs.google.com/presentation/d/1BzO-iUwm_2gY5tLxCYg9XddlEEXjDkNliljUI5GHpOI/edit?usp=sharing) |  |
 | 10:30-10:45 | Break | |
-| 10:45-11:15 | Text Analysis Exploration |  |
+| 10:45-11:15 | Text Analysis Exploration: [Voyant](https://github.com/dmics/voyant) |  |
 | 11:15-12:00 | Topic Modeling |  |
 | 12:00-1:30 | Lunch |  |
 | 1:30-2:45 | [Introduction to Networks](https://docs.google.com/presentation/d/1MMFJwauPBV9rFmwv_Z-0ViYeo-5kSYQnyoEtTrmM0Jk/edit?usp=sharing) |  |
