@@ -8,7 +8,7 @@
 | 12:00-1:30 | Lunch |  |
 | 1:30-2:30 | [What is data? What is humanities data?](https://docs.google.com/presentation/d/1fOhyfNzSsZLpk9K8iPaEN2gcZOhQ4CMr0lbZKXTykzY/edit?usp=sharing) |  |
 | 2:30-2:45 | Break |  |
-| 2:45-4:30 | [Getting Data](https://github.com/dmics/gettingdata) | Download [Google Chrome](https://www.google.com/chrome/) & [Web Scraper](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn) you'll have to open this in Chrome. |
+| 2:45-4:30 | [Getting Data](https://github.com/dmics/gettingdata) | Download [Google Chrome](https://www.google.com/chrome/) & [Web Scraper](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn) (you'll have to open this in Chrome). |
 
 ## Tuesday
 | Time | Topic| Relevant Links |
