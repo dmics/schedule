@@ -25,7 +25,7 @@
 ## Wednesday
 | Time | Topic| Relevant Links |
 | ------------- |-------------| -----|
-| 9:00-10:30 | Text Analysis |  |
+| 9:00-10:30 | [Text Analysis](https://docs.google.com/presentation/d/1BzO-iUwm_2gY5tLxCYg9XddlEEXjDkNliljUI5GHpOI/edit?usp=sharing) |  |
 | 10:30-10:45 | Break | |
 | 10:45-11:15 | Text Analysis Exploration |  |
 | 11:15-12:00 | Topic Modeling |  |
