@@ -39,7 +39,7 @@
 | ------------- |-------------| -----|
 | 9:00-10:30 | [Data Viz](https://github.com/dmics/dataviz) |  |
 | 10:30-10:45 | Break | |
-| 10:45-12:00 | Mapping |  |
+| 10:45-12:00 | [Mapping](https://github.com/dmics/mapping) |  |
 | 12:00-1:30 | Lunch |  |
 | 1:30-2:30 | Github & Github Pages |  |
 | 2:30-2:45 | Break |  |
