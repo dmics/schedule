@@ -4,7 +4,7 @@
 | 9:30-9:50 | Introductions | |
 | 9:50-10:45 | Overview of the course/Introduction to DH, [Workshop Guidelines](https://docs.google.com/document/d/1W9WOWtI6NHIzupKyzJOwa-xUJFrciYDdV4DpBg6jCng/edit)   | |
 | 10:45-11:00 | Break |  |
-| 11:00-12:00 | [Command Line Bootcamp](https://github.com/dmics/commandlinebootcamp) |  |
+| 11:00-12:00 | [Command Line Bootcamp](https://github.com/dmics/commandlinebootcamp) | [Explain Shell](https://explainshell.com/) |
 | 12:00-1:30 | Lunch |  |
 | 1:30-2:30 | [What is data? What is humanities data?](https://docs.google.com/presentation/d/1fOhyfNzSsZLpk9K8iPaEN2gcZOhQ4CMr0lbZKXTykzY/edit?usp=sharing) |  |
 | 2:30-2:45 | Break |  |
