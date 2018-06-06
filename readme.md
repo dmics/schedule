@@ -32,7 +32,7 @@
 | 12:00-1:30 | Lunch |  |
 | 1:30-2:45 | [Introduction to Networks](https://docs.google.com/presentation/d/1MMFJwauPBV9rFmwv_Z-0ViYeo-5kSYQnyoEtTrmM0Jk/edit?usp=sharing) |  |
 | 2:45-3:00 | Break |  |
-| 3:00-5:00 | Network Workshop |  |
+| 3:00-5:00 | [Network Workshop](https://github.com/dmics/networks) |  |
 
 ## Thursday
 | Time | Topic| Relevant Links |
@@ -41,6 +41,6 @@
 | 10:30-10:45 | Break | |
 | 10:45-12:00 | [Mapping](https://github.com/dmics/mapping) |  |
 | 12:00-1:30 | Lunch |  |
-| 1:30-2:30 | Github & Github Pages |  |
+| 1:30-2:30 | [Github & Github Pages](https://github.com/dmics/github) |  |
 | 2:30-2:45 | Break |  |
 | 2:45-4:30 | Wind Up & Reflection |  |
