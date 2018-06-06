@@ -32,7 +32,7 @@
 | 12:00-1:30 | Lunch |  |
 | 1:30-2:45 | [Introduction to Networks](https://docs.google.com/presentation/d/1MMFJwauPBV9rFmwv_Z-0ViYeo-5kSYQnyoEtTrmM0Jk/edit?usp=sharing) |  |
 | 2:45-3:00 | Break |  |
-| 3:00-5:00 | [Network Workshop](https://github.com/dmics/networks) |  |
+| 3:00-5:00 | [Network Workshop](https://github.com/dmics/networks) | [Multimode Networks Transformations plugin for Gephi](https://seinecle.github.io/gephi-tutorials/generated-pdf/k-partite-bi-partite-graph-en.pdf) |
 
 ## Thursday
 | Time | Topic| Relevant Links |
